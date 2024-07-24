@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://cn1xemxgeb52q"]
+
+[ext_resource type="Texture2D" uid="uid://cfn0lqvsbd8m1" path="res://images/card-back.png" id="1_70kdg"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Card Back" type="Sprite2D" parent="."]
+scale = Vector2(0.25, 0.25)
+texture = ExtResource("1_70kdg")
