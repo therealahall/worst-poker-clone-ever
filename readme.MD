@@ -5,6 +5,23 @@ Welcome to my first ever Godot project! I've been a lifelong video game fan and 
 ## Current State of the Game
 ![Current State](./current-state.png)
 
+## Todo
+- Layout
+    - Add burn pile
+    - Add flop, turn, and river
+    - Add UI for restarting game
+- Assets
+    - Create card faces
+- Sounds
+    - Background music
+    - Shuffle sound
+- Animation
+    - Card dealing
+    - Burning
+    - Flop
+    - Turn
+    - River
+
 ## Color Palette
 - ![Felt](https://placehold.it/15/35654d/000000?text=.) `Felt #35654d`
 - ![Card Back](https://placehold.it/15/000000/000000?text=.) `Card Back #000000`
