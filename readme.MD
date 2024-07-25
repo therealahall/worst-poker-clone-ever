@@ -7,20 +7,24 @@ Welcome to my first ever Godot project! I've been a lifelong video game fan and 
 
 ## Todo
 - Layout
-    - Add burn pile
-    - Add flop, turn, and river
+    - ~~Add burn pile~~
+    - ~~Add flop, turn, and river~~
     - Add UI for restarting game
+    - ~~Add dealer button~~
+    - Move card deck closer to dealer?
 - Assets
     - Create card faces
 - Sounds
     - Background music
-    - Shuffle sound
+    - Shuffle
+    - Dealing
 - Animation
     - Card dealing
     - Burning
     - Flop
     - Turn
     - River
+    - Reveal
 
 ## Color Palette
 - ![Felt](https://placehold.it/15/35654d/000000?text=.) `Felt #35654d`
