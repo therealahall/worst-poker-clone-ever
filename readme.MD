@@ -11,9 +11,9 @@ Welcome to my first ever Godot project! I've been a lifelong video game fan and 
     - ~~Add flop, turn, and river~~
     - Add UI for restarting game
     - ~~Add dealer button~~
-    - Move card deck closer to dealer?
+    - ~~Move card deck closer to dealer?~~
 - Assets
-    - Create card faces
+    - ~~Create card faces~~
 - Sounds
     - Background music
     - Shuffle
@@ -25,6 +25,9 @@ Welcome to my first ever Godot project! I've been a lifelong video game fan and 
     - Turn
     - River
     - Reveal
+- Logic
+    - Determine best hand available
+    - Determine winner between player and opponent
 
 ## Color Palette
 - ![Felt](https://placehold.it/15/35654d/000000?text=.) `Felt #35654d`
