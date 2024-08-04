@@ -1,0 +1,11 @@
+[gd_scene load_steps=3 format=3 uid="uid://cby57hes7w0cb"]
+
+[ext_resource type="Texture2D" uid="uid://cfn0lqvsbd8m1" path="res://images/card-back.png" id="1_4tmki"]
+[ext_resource type="Script" path="res://scenes/playing-card.gd" id="1_71ju0"]
+
+[node name="Playing Card" type="Node2D"]
+
+[node name="Playing Card" type="Sprite2D" parent="."]
+position = Vector2(664, 968)
+texture = ExtResource("1_4tmki")
+script = ExtResource("1_71ju0")
